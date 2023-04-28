@@ -17,3 +17,13 @@ node grifters.ts {number-of-keypom-drops}
 - add QR code generator for chat
 - add social.near onboarding for BOS referrals
 = add nft mints
+
+
+# DAO
+https://onboarddao.org/dao
+
+# Onboard Testnet App powered by Keypom
+https://testnet.onboarddao.org
+
+# GriftDAO Website
+https://griftdao.org
