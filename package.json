@@ -1,0 +1,35 @@
+{
+  "name": "daoboard",
+  "version": "1.0.0",
+  "description": "Onboarding to DAOs",
+  "main": "fc-keypom.js",
+  "scripts": {
+    "test": "node run grifter.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingshot/grift.git"
+  },
+  "keywords": [
+    "dao",
+    "keypom",
+    "near",
+    "linkdrop"
+  ],
+  "author": "codingshot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingshot/grift/issues"
+  },
+  "homepage": "https://github.com/codingshot/grift#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "keypom-js": "^1.4.9",
+    "near-api-js": "^0.45.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "qrcode-generator": "^1.4.4"
+  },
+  "devDependencies": {
+    "webpack": "^5.80.0"
+  }
+}
